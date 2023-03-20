@@ -11,3 +11,11 @@ Deliverable 3: A written report for the PyBer analysis (README.md)
 
 ## Findings
 
+![Formatting](https://user-images.githubusercontent.com/115853964/226489413-8428f6c4-4a7c-43a6-a69c-1443155a54d8.png)
+
+
+
+![py_chart](https://user-images.githubusercontent.com/115853964/226489118-33381c9d-7e7b-4d48-a403-6a9355c16111.png)
+
+## Summary 
+
