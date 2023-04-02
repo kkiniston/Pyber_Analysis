@@ -5,9 +5,9 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 ### What You're Creating
 This new assignment consists of two technical analysis deliverables and a written report to present your results. You will submit the following:
 
-Deliverable 1: A ride-sharing summary DataFrame by city type
-Deliverable 2: A multiple-line chart of total fares for each city type
-Deliverable 3: A written report for the PyBer analysis (README.md)
+- 1: A ride-sharing summary DataFrame by city type
+- 2: A multiple-line chart of total fares for each city type
+- 3: A written report for the PyBer analysis (README.md)
 
 ## Findings
 
